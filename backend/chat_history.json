@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Hello!  \nI’m MARO, your specialist in Moroccan logistics, customs law, Incoterms 2020, and port operations.  \nHow can I assist you today? (No relevant excerpt in the provided documents.)"
+  },
+  {
+    "role": "user",
+    "content": "what u do ?"
+  },
+  {
+    "role": "assistant",
+    "content": "I am **MARO** – a specialized assistant trained on the most recent official Moroccan documents to support you with:\n\n| Domain | What I can do | Source |\n|--------|---------------|--------|\n| **Port operations & statistics** | Analyse port throughput, growth trends, and regional performance (e.g., Casablanca, Agadir, Nador). Provide data‑driven insights and forecasts. | *Tableau de Bord Activité Portuaire – Fin Décembre 2025* |\n| **Customs law & procedures** | Interpret the Moroccan Customs Code 2026, advise on tariff classifications, duties, exemptions, and compliance requirements. | *Code Douanes Maroc 2026* |\n| **Incoterms 2020** | Explain the meaning, obligations, and risk allocation for each Incoterm (EXW, FCA, DDP, etc.), and how they apply to Moroccan trade. | *Incoterms 2020 – Guide Français* |\n| **Logistics & supply‑chain** | Offer best practices for freight forwarding, cabotage rules, and intermodal transport within Morocco. | *Code Douanes Maroc 2026* |\n| **Regulatory updates** | Summarise recent changes in customs duties (e.g., fuel rates) and port regulations. | *Code Douanes Maroc 2026* |\n| **Compliance & documentation** | Guide on necessary documents (commercial invoice, packing list, customs declaration, etc.) for import/export. | *Code Douanes Maroc 2026* |\n\nIf you need a specific analysis or explanation, just let me know!"
+  }
+]

@@ -1,0 +1,1543 @@
+{
+  "alerts": [
+    {
+      "title": "Sea-Intelligence: Asian port congestion could persist into m",
+      "headline": "Sea-Intelligence: Asian port congestion could persist into mid-2027 - WorldCargo News",
+      "severity": "MEDIUM",
+      "affected_routes": [
+        "Asia-Suez"
+      ],
+      "delay_hours": 12,
+      "location": "Global",
+      "financial_impact": "MEDIUM",
+      "summary": "Shipping disruption detected affecting Asia-Suez routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "congestion",
+      "confidence": 0.62
+    },
+    {
+      "title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+      "headline": "News Delays mount as port disruption in Asia ties up 3m teu of box capacity - The Loadstar",
+      "severity": "MEDIUM",
+      "affected_routes": [
+        "Asia-Suez"
+      ],
+      "delay_hours": 12,
+      "location": "Global",
+      "financial_impact": "MEDIUM",
+      "summary": "Shipping disruption detected affecting Asia-Suez routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "congestion",
+      "confidence": 0.62
+    },
+    {
+      "title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+      "headline": "Maersk sees full Suez Canal return by 2026 as Red Sea conditions improve - Kuehne+Nagel",
+      "severity": "LOW",
+      "affected_routes": [
+        "Asia-Suez"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Asia-Suez routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Suez Canal at risk: What shippers should know to mitigate di",
+      "headline": "Suez Canal at risk: What shippers should know to mitigate disruption - Supply Chain Dive",
+      "severity": "MEDIUM",
+      "affected_routes": [
+        "Asia-Suez"
+      ],
+      "delay_hours": 12,
+      "location": "Global",
+      "financial_impact": "MEDIUM",
+      "summary": "Shipping disruption detected affecting Asia-Suez routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "congestion",
+      "confidence": 0.62
+    },
+    {
+      "title": "A lifeline under threat: Why the Suez Canal’s security matte",
+      "headline": "A lifeline under threat: Why the Suez Canal’s security matters for the world - Atlantic Council",
+      "severity": "LOW",
+      "affected_routes": [
+        "Asia-Suez",
+        "Atlantic"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Asia-Suez, Atlantic routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+      "headline": "Impact to Global Trade of Disruption of Shipping Routes in the Red Sea, Black Sea and Panama Canal - UN Trade and Development (UNCTAD)",
+      "severity": "MEDIUM",
+      "affected_routes": [
+        "Asia-Suez",
+        "Atlantic"
+      ],
+      "delay_hours": 12,
+      "location": "Global",
+      "financial_impact": "MEDIUM",
+      "summary": "Shipping disruption detected affecting Asia-Suez, Atlantic routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "congestion",
+      "confidence": 0.62
+    },
+    {
+      "title": "DFDS reports a decline in passenger and cargo traffic in the",
+      "headline": "DFDS reports a decline in passenger and cargo traffic in the Strait of Gibraltar - El Estrecho Digital",
+      "severity": "LOW",
+      "affected_routes": [
+        "Europe-Gibraltar"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Europe-Gibraltar routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+      "headline": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Route - Marine Link",
+      "severity": "LOW",
+      "affected_routes": [
+        "Europe-Gibraltar"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Europe-Gibraltar routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Pilot whales can’t hear each other over ship noise in Strait",
+      "headline": "Pilot whales can’t hear each other over ship noise in Strait of Gibraltar, study finds - news - Mongabay",
+      "severity": "LOW",
+      "affected_routes": [
+        "Europe-Gibraltar"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Europe-Gibraltar routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Closing The Straits of Gibraltar - Medium",
+      "headline": "Closing The Straits of Gibraltar - Medium",
+      "severity": "LOW",
+      "affected_routes": [
+        "Europe-Gibraltar"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Europe-Gibraltar routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+      "headline": "The Five Keys Of Global Shipping In The 21st Century – Analysis - Eurasia Review",
+      "severity": "LOW",
+      "affected_routes": [
+        "Asia-Suez"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Asia-Suez routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Pérez y Cía Maroc successfully executes heavy lift project a",
+      "headline": "Pérez y Cía Maroc successfully executes heavy lift project at Tangier Med Port - American Journal of Transportation",
+      "severity": "LOW",
+      "affected_routes": [
+        "Atlantic"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Atlantic routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+      "headline": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Morocco World News",
+      "severity": "LOW",
+      "affected_routes": [
+        "Asia-Suez",
+        "Europe-Gibraltar"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Asia-Suez, Europe-Gibraltar routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "Tanger Med: over 20 Latin American and Caribbean port execut",
+      "headline": "Tanger Med: over 20 Latin American and Caribbean port executives study the Moroccan model - Capmad",
+      "severity": "LOW",
+      "affected_routes": [
+        "Atlantic"
+      ],
+      "delay_hours": 4,
+      "location": "Global",
+      "financial_impact": "LOW",
+      "summary": "Shipping disruption detected affecting Atlantic routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "unknown",
+      "confidence": 0.55
+    },
+    {
+      "title": "News Another typhoon threatens recovery of East Asian ports ",
+      "headline": "News Another typhoon threatens recovery of East Asian ports from congestion - The Loadstar",
+      "severity": "MEDIUM",
+      "affected_routes": [
+        "Asia-Suez"
+      ],
+      "delay_hours": 12,
+      "location": "Global",
+      "financial_impact": "MEDIUM",
+      "summary": "Shipping disruption detected affecting Asia-Suez routes to Tanger Med.",
+      "port_affected": "Global",
+      "cause": "congestion",
+      "confidence": 0.62
+    }
+  ],
+  "vessel_impacts": [
+    {
+      "vessel_id": 1,
+      "name": "Atlas",
+      "shipping_line": "Evergreen",
+      "size_teu": 14000,
+      "eta": "2026-06-22 13:00",
+      "priority": 1,
+      "origin_port": "Shanghai",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 01:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 3,
+      "name": "Casablanca Star",
+      "shipping_line": "MSC",
+      "size_teu": 6000,
+      "eta": "2026-06-22 20:00",
+      "priority": 2,
+      "origin_port": "Singapore",
+      "origin_country": "Singapore",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 08:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 5,
+      "name": "Mediterranean Pearl",
+      "shipping_line": "Evergreen",
+      "size_teu": 4000,
+      "eta": "2026-06-23 16:00",
+      "priority": 2,
+      "origin_port": "Busan",
+      "origin_country": "South Korea",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-24 04:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 7,
+      "name": "Phoenix",
+      "shipping_line": "Maersk",
+      "size_teu": 12000,
+      "eta": "2026-06-22 11:00",
+      "priority": 1,
+      "origin_port": "Ningbo",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-22 23:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 10,
+      "name": "Atlantic Bridge",
+      "shipping_line": "Hapag-Lloyd",
+      "size_teu": 6000,
+      "eta": "2026-06-22 18:00",
+      "priority": 3,
+      "origin_port": "New York",
+      "origin_country": "USA",
+      "route": "Atlantic",
+      "vessel_type": "Import / Export — Atlantic",
+      "impacted_by": [
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Pérez y Cía Maroc successfully executes heavy lift project a",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Tanger Med: over 20 Latin American and Caribbean port execut",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 06:00",
+      "recalibration": {
+        "vessel_name": "Atlantic Bridge",
+        "vessel_type": "Import / Export — Atlantic",
+        "delay_hours": 12,
+        "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+        "original_eta": "2026-06-22 18:00",
+        "new_eta": "2026-06-23 06:00",
+        "window_open": "23 Jun 08:00",
+        "window_close": "24 Jun 06:00",
+        "carriers": [
+          "Transporteur A — Atlas Trans",
+          "Transporteur B — Maghreb Freight",
+          "Transporteur C — TIR Logistics"
+        ],
+        "status": "EN ATTENTE DE VALIDATION"
+      }
+    },
+    {
+      "vessel_id": 12,
+      "name": "Rabat Glory",
+      "shipping_line": "COSCO",
+      "size_teu": 10000,
+      "eta": "2026-06-22 20:00",
+      "priority": 1,
+      "origin_port": "Guangzhou",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 08:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 14,
+      "name": "Agadir Spirit",
+      "shipping_line": "Maersk",
+      "size_teu": 6000,
+      "eta": "2026-06-24 06:00",
+      "priority": 2,
+      "origin_port": "Tokyo",
+      "origin_country": "Japan",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-24 18:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 16,
+      "name": "Tetouan Star",
+      "shipping_line": "CMA CGM",
+      "size_teu": 8000,
+      "eta": "2026-06-22 15:00",
+      "priority": 2,
+      "origin_port": "Tianjin",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 03:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 18,
+      "name": "Dakhla Sun",
+      "shipping_line": "COSCO",
+      "size_teu": 6000,
+      "eta": "2026-06-22 12:00",
+      "priority": 2,
+      "origin_port": "Hong Kong",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 00:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 19,
+      "name": "Laayoune Trail",
+      "shipping_line": "CMA CGM",
+      "size_teu": 10000,
+      "eta": "2026-06-23 20:00",
+      "priority": 1,
+      "origin_port": "Santos",
+      "origin_country": "Brazil",
+      "route": "Atlantic",
+      "vessel_type": "Import / Export — Atlantic",
+      "impacted_by": [
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Pérez y Cía Maroc successfully executes heavy lift project a",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Tanger Med: over 20 Latin American and Caribbean port execut",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-24 08:00",
+      "recalibration": {
+        "vessel_name": "Laayoune Trail",
+        "vessel_type": "Import / Export — Atlantic",
+        "delay_hours": 12,
+        "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+        "original_eta": "2026-06-23 20:00",
+        "new_eta": "2026-06-24 08:00",
+        "window_open": "24 Jun 10:00",
+        "window_close": "25 Jun 08:00",
+        "carriers": [
+          "Transporteur A — Atlas Trans",
+          "Transporteur B — Maghreb Freight",
+          "Transporteur C — TIR Logistics"
+        ],
+        "status": "EN ATTENTE DE VALIDATION"
+      }
+    },
+    {
+      "vessel_id": 20,
+      "name": "Kenitra Hope",
+      "shipping_line": "CMA CGM",
+      "size_teu": 10000,
+      "eta": "2026-06-22 08:00",
+      "priority": 1,
+      "origin_port": "Shenzhen",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-22 20:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 22,
+      "name": "Safi Current",
+      "shipping_line": "Maersk",
+      "size_teu": 6000,
+      "eta": "2026-06-23 06:00",
+      "priority": 2,
+      "origin_port": "Colombo",
+      "origin_country": "Sri Lanka",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 18:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 24,
+      "name": "Marrakech",
+      "shipping_line": "Hapag-Lloyd",
+      "size_teu": 8000,
+      "eta": "2026-06-23 05:00",
+      "priority": 3,
+      "origin_port": "Qingdao",
+      "origin_country": "China",
+      "route": "Asia-Suez",
+      "vessel_type": "Transbordement — MOTHER",
+      "impacted_by": [
+        {
+          "alert_title": "Sea-Intelligence: Asian port congestion could persist into m",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "News Delays mount as port disruption in Asia ties up 3m teu ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Maersk sees full Suez Canal return by 2026 as Red Sea condit",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Suez Canal at risk: What shippers should know to mitigate di",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "The Five Keys Of Global Shipping In The 21st Century – Analy",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "News Another typhoon threatens recovery of East Asian ports ",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 17:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 25,
+      "name": "Tarfaya Wind",
+      "shipping_line": "MSC",
+      "size_teu": 8000,
+      "eta": "2026-06-24 03:00",
+      "priority": 2,
+      "origin_port": "Houston",
+      "origin_country": "USA",
+      "route": "Atlantic",
+      "vessel_type": "Import / Export — Atlantic",
+      "impacted_by": [
+        {
+          "alert_title": "A lifeline under threat: Why the Suez Canal’s security matte",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+          "severity": "MEDIUM",
+          "delay_hours": 12
+        },
+        {
+          "alert_title": "Pérez y Cía Maroc successfully executes heavy lift project a",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Tanger Med: over 20 Latin American and Caribbean port execut",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 12,
+      "status": "DELAYED",
+      "new_eta": "2026-06-24 15:00",
+      "recalibration": {
+        "vessel_name": "Tarfaya Wind",
+        "vessel_type": "Import / Export — Atlantic",
+        "delay_hours": 12,
+        "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+        "original_eta": "2026-06-24 03:00",
+        "new_eta": "2026-06-24 15:00",
+        "window_open": "24 Jun 17:00",
+        "window_close": "25 Jun 15:00",
+        "carriers": [
+          "Transporteur A — Atlas Trans",
+          "Transporteur B — Maghreb Freight",
+          "Transporteur C — TIR Logistics"
+        ],
+        "status": "EN ATTENTE DE VALIDATION"
+      }
+    },
+    {
+      "vessel_id": 2,
+      "name": "Tanger Express",
+      "shipping_line": "Maersk",
+      "size_teu": 8000,
+      "eta": "2026-06-24 05:00",
+      "priority": 2,
+      "origin_port": "Rotterdam",
+      "origin_country": "Netherlands",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-24 09:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 4,
+      "name": "Sahara Wind",
+      "shipping_line": "Evergreen",
+      "size_teu": 6000,
+      "eta": "2026-06-22 12:00",
+      "priority": 3,
+      "origin_port": "Antwerp",
+      "origin_country": "Belgium",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-22 16:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 6,
+      "name": "Strait Voyager",
+      "shipping_line": "Hapag-Lloyd",
+      "size_teu": 4000,
+      "eta": "2026-06-23 09:00",
+      "priority": 2,
+      "origin_port": "Valencia",
+      "origin_country": "Spain",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 13:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 8,
+      "name": "Horizon",
+      "shipping_line": "MSC",
+      "size_teu": 8000,
+      "eta": "2026-06-22 20:00",
+      "priority": 3,
+      "origin_port": "Hamburg",
+      "origin_country": "Germany",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 00:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 11,
+      "name": "Gibraltar Pass",
+      "shipping_line": "Evergreen",
+      "size_teu": 6000,
+      "eta": "2026-06-24 02:00",
+      "priority": 3,
+      "origin_port": "Algeciras",
+      "origin_country": "Spain",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-24 06:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 13,
+      "name": "Fes Pioneer",
+      "shipping_line": "COSCO",
+      "size_teu": 4000,
+      "eta": "2026-06-23 19:00",
+      "priority": 2,
+      "origin_port": "Felixstowe",
+      "origin_country": "UK",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 23:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 15,
+      "name": "Oujda Light",
+      "shipping_line": "Evergreen",
+      "size_teu": 8000,
+      "eta": "2026-06-23 09:00",
+      "priority": 2,
+      "origin_port": "Le Havre",
+      "origin_country": "France",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 13:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 21,
+      "name": "Meknes Quest",
+      "shipping_line": "Evergreen",
+      "size_teu": 8000,
+      "eta": "2026-06-23 11:00",
+      "priority": 3,
+      "origin_port": "Barcelona",
+      "origin_country": "Spain",
+      "route": "Europe-Gibraltar",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [
+        {
+          "alert_title": "DFDS reports a decline in passenger and cargo traffic in the",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "DFDS Adds Freight, Passenger Ferry to Strait of Gibraltar Ro",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Pilot whales can’t hear each other over ship noise in Strait",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Closing The Straits of Gibraltar - Medium",
+          "severity": "LOW",
+          "delay_hours": 4
+        },
+        {
+          "alert_title": "Hapag-Lloyd Expands China-Morocco Maritime Connections - Mor",
+          "severity": "LOW",
+          "delay_hours": 4
+        }
+      ],
+      "total_delay_hours": 4,
+      "status": "DELAYED",
+      "new_eta": "2026-06-23 15:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 9,
+      "name": "Maghreb Trader",
+      "shipping_line": "Hapag-Lloyd",
+      "size_teu": 12000,
+      "eta": "2026-06-22 07:00",
+      "priority": 1,
+      "origin_port": "Port Said",
+      "origin_country": "Egypt",
+      "route": "Med-Direct",
+      "vessel_type": "Import — Conteneurs",
+      "impacted_by": [],
+      "total_delay_hours": 0,
+      "status": "ON TIME",
+      "new_eta": "2026-06-22 07:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 17,
+      "name": "Nador Wave",
+      "shipping_line": "CMA CGM",
+      "size_teu": 8000,
+      "eta": "2026-06-22 12:00",
+      "priority": 2,
+      "origin_port": "Marseille",
+      "origin_country": "France",
+      "route": "Med-Direct",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [],
+      "total_delay_hours": 0,
+      "status": "ON TIME",
+      "new_eta": "2026-06-22 12:00",
+      "recalibration": null
+    },
+    {
+      "vessel_id": 23,
+      "name": "Essaouira Breeze",
+      "shipping_line": "Hapag-Lloyd",
+      "size_teu": 8000,
+      "eta": "2026-06-23 00:00",
+      "priority": 3,
+      "origin_port": "Genoa",
+      "origin_country": "Italy",
+      "route": "Med-Direct",
+      "vessel_type": "Feeder — Régional",
+      "impacted_by": [],
+      "total_delay_hours": 0,
+      "status": "ON TIME",
+      "new_eta": "2026-06-23 00:00",
+      "recalibration": null
+    }
+  ],
+  "recalibrations": [
+    {
+      "vessel_name": "Atlantic Bridge",
+      "vessel_type": "Import / Export — Atlantic",
+      "delay_hours": 12,
+      "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+      "original_eta": "2026-06-22 18:00",
+      "new_eta": "2026-06-23 06:00",
+      "window_open": "23 Jun 08:00",
+      "window_close": "24 Jun 06:00",
+      "carriers": [
+        "Transporteur A — Atlas Trans",
+        "Transporteur B — Maghreb Freight",
+        "Transporteur C — TIR Logistics"
+      ],
+      "status": "EN ATTENTE DE VALIDATION"
+    },
+    {
+      "vessel_name": "Laayoune Trail",
+      "vessel_type": "Import / Export — Atlantic",
+      "delay_hours": 12,
+      "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+      "original_eta": "2026-06-23 20:00",
+      "new_eta": "2026-06-24 08:00",
+      "window_open": "24 Jun 10:00",
+      "window_close": "25 Jun 08:00",
+      "carriers": [
+        "Transporteur A — Atlas Trans",
+        "Transporteur B — Maghreb Freight",
+        "Transporteur C — TIR Logistics"
+      ],
+      "status": "EN ATTENTE DE VALIDATION"
+    },
+    {
+      "vessel_name": "Tarfaya Wind",
+      "vessel_type": "Import / Export — Atlantic",
+      "delay_hours": 12,
+      "alert_title": "Impact to Global Trade of Disruption of Shipping Routes in t",
+      "original_eta": "2026-06-24 03:00",
+      "new_eta": "2026-06-24 15:00",
+      "window_open": "24 Jun 17:00",
+      "window_close": "25 Jun 15:00",
+      "carriers": [
+        "Transporteur A — Atlas Trans",
+        "Transporteur B — Maghreb Freight",
+        "Transporteur C — TIR Logistics"
+      ],
+      "status": "EN ATTENTE DE VALIDATION"
+    }
+  ],
+  "summary": {
+    "total_alerts": 15,
+    "high_severity": 0,
+    "medium_severity": 5,
+    "low_severity": 10,
+    "vessels_delayed": 22,
+    "vessels_on_time": 3,
+    "total_vessels": 25,
+    "recalibrations_triggered": 3
+  },
+  "timestamp": 1792790945.272748,
+  "scraped_at": "2026-10-23 21:29:05"
+}

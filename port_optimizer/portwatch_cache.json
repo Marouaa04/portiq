@@ -1,0 +1,239 @@
+{
+  "records": [
+    {
+      "date": "2026-10-16",
+      "calls": 9,
+      "calls_container": 6,
+      "import_tons": 161595,
+      "export_tons": 97857,
+      "import_container_tons": 124199,
+      "export_container_tons": 96339
+    },
+    {
+      "date": "2026-10-15",
+      "calls": 10,
+      "calls_container": 8,
+      "import_tons": 506852,
+      "export_tons": 257857,
+      "import_container_tons": 476230,
+      "export_container_tons": 227018
+    },
+    {
+      "date": "2026-10-14",
+      "calls": 10,
+      "calls_container": 7,
+      "import_tons": 342704,
+      "export_tons": 64318,
+      "import_container_tons": 342704,
+      "export_container_tons": 57204
+    },
+    {
+      "date": "2026-10-13",
+      "calls": 12,
+      "calls_container": 9,
+      "import_tons": 89131,
+      "export_tons": 111542,
+      "import_container_tons": 73909,
+      "export_container_tons": 108218
+    },
+    {
+      "date": "2026-10-12",
+      "calls": 13,
+      "calls_container": 11,
+      "import_tons": 62384,
+      "export_tons": 183011,
+      "import_container_tons": 60107,
+      "export_container_tons": 181510
+    },
+    {
+      "date": "2026-10-11",
+      "calls": 14,
+      "calls_container": 10,
+      "import_tons": 149483,
+      "export_tons": 229844,
+      "import_container_tons": 126443,
+      "export_container_tons": 223687
+    },
+    {
+      "date": "2026-10-10",
+      "calls": 9,
+      "calls_container": 6,
+      "import_tons": 122447,
+      "export_tons": 80223,
+      "import_container_tons": 88119,
+      "export_container_tons": 78420
+    },
+    {
+      "date": "2026-10-09",
+      "calls": 10,
+      "calls_container": 7,
+      "import_tons": 258177,
+      "export_tons": 51239,
+      "import_container_tons": 256302,
+      "export_container_tons": 47820
+    },
+    {
+      "date": "2026-10-08",
+      "calls": 14,
+      "calls_container": 10,
+      "import_tons": 132471,
+      "export_tons": 209794,
+      "import_container_tons": 132471,
+      "export_container_tons": 201509
+    },
+    {
+      "date": "2026-10-07",
+      "calls": 14,
+      "calls_container": 10,
+      "import_tons": 259921,
+      "export_tons": 144060,
+      "import_container_tons": 243375,
+      "export_container_tons": 139335
+    },
+    {
+      "date": "2026-10-06",
+      "calls": 13,
+      "calls_container": 9,
+      "import_tons": 129461,
+      "export_tons": 114053,
+      "import_container_tons": 55194,
+      "export_container_tons": 110729
+    },
+    {
+      "date": "2026-10-05",
+      "calls": 13,
+      "calls_container": 10,
+      "import_tons": 46238,
+      "export_tons": 200292,
+      "import_container_tons": 42285,
+      "export_container_tons": 195814
+    },
+    {
+      "date": "2026-10-04",
+      "calls": 11,
+      "calls_container": 8,
+      "import_tons": 129782,
+      "export_tons": 142163,
+      "import_container_tons": 129782,
+      "export_container_tons": 103498
+    },
+    {
+      "date": "2026-10-03",
+      "calls": 17,
+      "calls_container": 13,
+      "import_tons": 234218,
+      "export_tons": 336478,
+      "import_container_tons": 201484,
+      "export_container_tons": 335653
+    },
+    {
+      "date": "2026-10-02",
+      "calls": 11,
+      "calls_container": 9,
+      "import_tons": 183446,
+      "export_tons": 114048,
+      "import_container_tons": 183446,
+      "export_container_tons": 114048
+    },
+    {
+      "date": "2026-10-01",
+      "calls": 13,
+      "calls_container": 10,
+      "import_tons": 303183,
+      "export_tons": 182995,
+      "import_container_tons": 289987,
+      "export_container_tons": 175259
+    },
+    {
+      "date": "2026-09-30",
+      "calls": 12,
+      "calls_container": 11,
+      "import_tons": 347931,
+      "export_tons": 170024,
+      "import_container_tons": 347931,
+      "export_container_tons": 163999
+    },
+    {
+      "date": "2026-09-29",
+      "calls": 11,
+      "calls_container": 7,
+      "import_tons": 290487,
+      "export_tons": 143125,
+      "import_container_tons": 254635,
+      "export_container_tons": 137997
+    },
+    {
+      "date": "2026-09-28",
+      "calls": 15,
+      "calls_container": 8,
+      "import_tons": 101030,
+      "export_tons": 230640,
+      "import_container_tons": 46168,
+      "export_container_tons": 221570
+    },
+    {
+      "date": "2026-09-27",
+      "calls": 13,
+      "calls_container": 10,
+      "import_tons": 137453,
+      "export_tons": 257353,
+      "import_container_tons": 136922,
+      "export_container_tons": 256028
+    },
+    {
+      "date": "2026-09-26",
+      "calls": 12,
+      "calls_container": 11,
+      "import_tons": 150082,
+      "export_tons": 237636,
+      "import_container_tons": 135503,
+      "export_container_tons": 237636
+    },
+    {
+      "date": "2026-09-25",
+      "calls": 9,
+      "calls_container": 7,
+      "import_tons": 168231,
+      "export_tons": 173281,
+      "import_container_tons": 168231,
+      "export_container_tons": 171557
+    },
+    {
+      "date": "2026-09-24",
+      "calls": 11,
+      "calls_container": 8,
+      "import_tons": 99592,
+      "export_tons": 125654,
+      "import_container_tons": 95695,
+      "export_container_tons": 123437
+    },
+    {
+      "date": "2026-09-23",
+      "calls": 14,
+      "calls_container": 11,
+      "import_tons": 297860,
+      "export_tons": 141474,
+      "import_container_tons": 296311,
+      "export_container_tons": 133622
+    }
+  ],
+  "summary": {
+    "days_covered": 24,
+    "total_calls": 290,
+    "avg_daily_calls": 12.1,
+    "total_import_tons": 4704159,
+    "total_export_tons": 3998961,
+    "max_daily_calls": 17,
+    "latest_date": "2026-10-16",
+    "latest_calls": 9,
+    "latest_calls_container": 6,
+    "latest_import_tons": 161595,
+    "latest_export_tons": 97857
+  },
+  "source": "IMF PortWatch - AIS satellite data (UN Global Platform)",
+  "port": "Tanger Med",
+  "port_id": "port1265",
+  "error": false,
+  "timestamp": 1792790447.6758196,
+  "fetched_at": "2026-10-23 21:20 UTC"
+}

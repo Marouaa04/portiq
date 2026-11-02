@@ -7,6 +7,8 @@ from datetime import datetime, timedelta, timezone
 
 CACHE_PATH = os.path.join(os.path.dirname(__file__), "portwatch_cache.json")
 CACHE_TTL = 3600
+RETRY_ATTEMPTS = 2           # tries per refresh before giving up
+RETRY_BACKOFF_SECONDS = 600  # after a failed refresh, serve saved data for 10 min instead of retrying on every page load
 
 PORT_ID = "port1265"
 PORT_NAME = "Tanger Med"

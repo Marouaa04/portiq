@@ -81,6 +81,12 @@ NAV_HTML = f"""
 .ml-link:hover{{background:#F0F2F5;color:#0057B8}}
 .ml-link.active{{background:#EBF2FF;color:#0057B8;font-weight:600}}
 .ml-right{{display:flex;align-items:center}}
+
+@media (max-width:900px){{
+    .ml-nav{{flex-direction:column;align-items:flex-start;height:auto;padding:10px 14px;gap:8px}}
+    .ml-links{{width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;padding-bottom:4px}}
+    .ml-brand-tag{{display:none}}
+}}
 </style>
 <div class="ml-nav">
   <a class="ml-brand" href="?page=Home" target="_self">

@@ -228,6 +228,31 @@ html,body{{background:var(--bg);font-family:var(--font);color:var(--text);min-he
 .footer-brand{{font-weight:700;font-size:14px;color:white}}
 .footer-sub{{font-size:11px;color:#667085;margin-top:2px}}
 .footer-right{{font-size:11px;color:#667085;text-align:right}}
+/* ── MOBILE ──────────────────────────────────────────────────────────────── */
+@media (max-width:900px){{
+  .topbar{{padding:0 16px}}
+  .hero{{padding:40px 20px 48px}}
+  .hero-subtitle{{font-size:14px;margin-bottom:24px}}
+  .hero-stats{{display:grid;grid-template-columns:1fr 1fr;margin-top:32px}}
+  .hstat{{padding:16px 10px;border-right:none;border-bottom:1px solid rgba(255,255,255,0.12)}}
+  .hstat:nth-child(odd){{border-right:1px solid rgba(255,255,255,0.12)}}
+  .hstat:last-child{{grid-column:1/-1;border-right:none;border-bottom:none}}
+  .hstat-num{{font-size:22px;word-break:break-word}}
+  .section{{padding:36px 16px}}
+  .section-title{{font-size:22px}}
+  .live-grid{{grid-template-columns:1fr 1fr;gap:12px}}
+  .live-card{{padding:16px 10px}}
+  .lc-num{{font-size:26px;word-break:break-word}}
+  .platform-row,.modules-grid,.tm-grid,.apropos-grid{{grid-template-columns:1fr}}
+  .platform-card{{padding:16px}}
+  .module-card{{padding:20px}}
+  .tech-grid{{grid-template-columns:repeat(2,1fr)}}
+  .apropos{{padding:36px 16px}}
+  .apropos-grid{{gap:24px}}
+  .about-strip{{flex-direction:column;align-items:flex-start;padding:32px 20px;gap:20px}}
+  .footer{{flex-direction:column;align-items:flex-start;gap:12px;padding:24px 16px}}
+  .footer-right{{text-align:left}}
+}}
 </style>
 </head>
 <body>
@@ -421,6 +446,18 @@ html,body{{background:var(--bg);font-family:var(--font);color:var(--text);min-he
 </div>
  
 <script>
+function fitHeight() {{
+  try {{
+    const f = document.querySelector('.footer');
+    const h = Math.ceil(f.getBoundingClientRect().bottom + window.scrollY);
+    if (window.frameElement && h > 200) window.frameElement.style.height = h + 'px';
+  }} catch(e) {{}}
+}}
+window.addEventListener('load', fitHeight);
+window.addEventListener('resize', fitHeight);
+setTimeout(fitHeight, 300);
+setTimeout(fitHeight, 1200);
+if (document.fonts && document.fonts.ready) document.fonts.ready.then(fitHeight);
 function navTo(page) {{
   try {{
     const ta = window.parent.document.querySelector('textarea[data-testid="stChatInputTextArea"]');
